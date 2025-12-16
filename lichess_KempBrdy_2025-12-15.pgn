@@ -1,0 +1,20 @@
+[Event "rated bullet game"]
+[Site "https://lichess.org/bNaIxy60"]
+[Date "2025.12.15"]
+[White "KempBrdy"]
+[Black "Solo_97"]
+[Result "1-0"]
+[GameId "bNaIxy60"]
+[UTCDate "2025.12.15"]
+[UTCTime "18:12:24"]
+[WhiteElo "1501"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e5 2. Bc4 Nc6 3. Qf3 Qe7 4. Nc3 Nf6 5. Ne4 Nxe4 6. Qxe4 g6 7. Bb3 Bg7 8. Ne2 O-O 9. f4 exf4 10. Qxf4 b6 11. h4 Bb7 12. h5 g5 13. Qf5 h6 14. c3 Kh8 15. Bc2 Be5 16. Qh7# 1-0
+
